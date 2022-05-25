@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "Ravi_LogicApp", "Ravi_LogicApp\Ravi_LogicApp.deployproj", "{78680E6E-E3E6-4B38-946D-7EC6BEEB76B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78680E6E-E3E6-4B38-946D-7EC6BEEB76B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78680E6E-E3E6-4B38-946D-7EC6BEEB76B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78680E6E-E3E6-4B38-946D-7EC6BEEB76B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78680E6E-E3E6-4B38-946D-7EC6BEEB76B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566F72EB-DDC2-4CF2-B42B-0BD53B8AAA6F}
+	EndGlobalSection
+EndGlobal
